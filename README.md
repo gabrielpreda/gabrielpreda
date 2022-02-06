@@ -9,3 +9,7 @@
 ![dataset_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/gpreda/dataset/light)
 ![notebook_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/gpreda/notebook/light)
 ![discussion_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/gpreda/discussion/light)
+
+- My Google Scholar profile: UYwKtTcAAAAJ
+- My ORCID Profile: 0000-0002-5728-6201
+- My ResearcherID (Publons) Profile: F-7841-2010

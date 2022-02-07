@@ -13,3 +13,4 @@
 - My Google Scholar profile: UYwKtTcAAAAJ
 - My ORCID Profile: 0000-0002-5728-6201
 - My ResearcherID (Publons) Profile: F-7841-2010
+- Semantic Scholar: 46327510

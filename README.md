@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning about ML, NLP, Deep Learning, Transformers, PyTorch, LLMs, Langchain, Vector Databases
+- 🌱 I’m currently learning about ML, NLP, Deep Learning, Transformers, PyTorch, LLMs, Langchain, Vector Databases, AI Agents
 - 📫 How to reach me: gabi.preda@gmail.com
 - I am also on [Kaggle](www.kaggle.com/gpreda). 
 

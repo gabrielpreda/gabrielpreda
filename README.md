@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning about ML, NLP, Deep Learning, Transformers, PyTorch, LLMs, Agents frameworks, Vector Databases, AI Agents
+- 🌱 I’m currently developing AI Agents using ADK, Gemini, Gemma, A2A, GCP Agent Platform.
 - 📫 How to reach me: gabi.preda@gmail.com
 - I am also on [Kaggle](www.kaggle.com/gpreda). 
 
